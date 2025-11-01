@@ -28,6 +28,10 @@ Knightdale, NC 27545
 
 The annual assessment for 2025 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.
 
+## Violations
+
+All home owners are bound by the Covenants and restrictions.  Violations of the restrictions will be handled in accordance with the HOA's [published procedures](violations).
+
 ## Documents and Records
 
 Public documents, including board meeting minutes, governing documents, architectural forms, notices, and more are available here.

@@ -34,11 +34,11 @@ Topics in the President's presentation:
   
 ### Proxy Voting
 
-If you would like to delegate your voting power, please complete the [proxy form]() (link will be updated soon), and mail to the board post-marked no later than **3 November 2025**.  Proxies mailed after that will be discarded.
+If you would like to delegate your voting power, please complete the [proxy form](https://drive.google.com/file/d/1A3-qK6Uwx0RRLl87cNTKFIwmqmo58lAB/view?usp=drive_link), and mail it to the board post-marked no later than **3 November 2025**.  Proxies mailed after that will be discarded.
 
 ### Budget
 
-This budget is tentative.
+This budget is tentative and will be finalized the weekend before the meeting.
 
 | Asset | Liability | Income | Expense | 10 November 2025 - ~1 November 2026 ($) |
 |-|-|-|-|-|
