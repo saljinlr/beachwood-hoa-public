@@ -8,8 +8,6 @@ We will elect 5 board members.
 
 ### Agenda
 
-This agenda will be finalized the weekend before the meeting.  If you would like time to address the community, please contact the board to tell us what you would like to discuss and how much time you request.
-
 We have hard start and stop times dictated by the venue.  Please expect the moderator to keep things moving.
 
 | Time (pm) | Description |
@@ -25,20 +23,16 @@ Topics in the President's presentation:
 - Housekeeping from the last membership meeting
   - Should the treasurer be bonded?  (Spoiler: The HOA's insurance policy covers malfeasance.)
   - "More community"
-- Proposed bylaws ammendments (subject to quorum)
-  - method to restore staggered election of board members
-  - ability to distribute membership meeting notices by e-mail
-  - clarification of quorum with respect to wholely owned entities of a common corporate owner
-  - codification of best practices for operation of the board
-- Enforcement of the covenants and restrictions, including [published procedures](violations)
+- [Proposed bylaws ammendments](https://drive.google.com/file/d/1ArkkR1PGWGoYf3hp-uUHc3hhWEJncKj-/view?usp=drive_link) (subject to quorum)
+- Enforcement of the covenants and restrictions
+  - Grey areas
+  - [published procedures](violations)
   
 ### Proxy Voting
 
 If you would like to delegate your voting power, please complete the [proxy form](https://drive.google.com/file/d/1A3-qK6Uwx0RRLl87cNTKFIwmqmo58lAB/view?usp=drive_link), and mail it to the board post-marked no later than **3 November 2025**.  Proxies mailed after that will be discarded.
 
 ### Budget
-
-This budget is tentative and will be finalized the weekend before the meeting.
 
 | Asset | Liability | Income | Expense | 10 November 2025 - ~1 November 2026 ($) |
 |-|-|-|-|-|

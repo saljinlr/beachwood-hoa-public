@@ -30,7 +30,7 @@ The annual assessment for 2025 is $243.  Please send a check or money order paya
 
 ## Violations
 
-All home owners are bound by the Covenants and restrictions.  Violations of the restrictions will be handled in accordance with the HOA's [published procedures](violations).
+All home owners are bound by the [Covenants and Restrictions](https://drive.google.com/file/d/1sXEQ5biblpdFaENFtViTgPRbcpOQYm-x/view?usp=drive_link), including ammendments.  Violations of the restrictions will be handled in accordance with the HOA's [published procedures](violations).
 
 ## Documents and Records
 
