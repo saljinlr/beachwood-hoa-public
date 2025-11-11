@@ -44,13 +44,13 @@ The HOA is a NC not-for-profit entity.  Board members serve a term of 2 years.
 
 | Board Member | Postion | Last Election |
 |-|-|-|
-| David Kalbfleisch | President | November 2023 |
-| Susan Bastien | Secretary & Treasurer | November 2023 |
-| Perri Davenport | Vice President | November 2023 |
-| Mohammed Hazin | | November 2023 |
+| Rob Jones | | November 2025 |
+| Sal LaRocca | | November 2025 |
+| Perri Davenport | | November 2025 |
+| Justin Murphy | | November 2025 |
 | Clyde Thompson | | June 2025 |
 
-Clyde was elected to fill a vacancy.  All board seats will be open in November 2025.
+All board seats will be open in November 2027.
 
 ### Links for board members
 
