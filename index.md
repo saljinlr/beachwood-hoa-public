@@ -48,12 +48,12 @@ The HOA is a NC not-for-profit entity.  Board members serve a term of 2 years.
 | Sal LaRocca | | November 2025 |
 | Perri Davenport | | November 2025 |
 | Justin Murphy | | November 2025 |
-| Clyde Thompson | | June 2025 |
+| Clyde Thompson | | November 2025 |
 
 All board seats will be open in November 2027.
 
 ### Links for board members
 
-- [Project board](https://github.com/users/kalbfled/projects/1)
-- [Knowledge repository](https://github.com/kalbfled/beachwood-hoa)
+- [Project board](https://github.com/users/saljinlr/projects/1)
+- [Knowledge repository](https://github.com/saljinlr/beachwood-hoa)
 - [Beachwood HOA private Google Drive](https://drive.google.com/drive/folders/1FTfRWxEOffus-xh-Zg0sHXluXewCWweB?usp=drive_link)
