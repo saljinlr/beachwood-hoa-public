@@ -6,9 +6,7 @@ This is the website for the Beachwood subdivision of Wake County, NC.  This webs
 
 ## News
 
-- The next membership meeting will occur on **10 November 2025**.
-  - [membership meeting details](membership_meeting).
-- Strict covenant enforcement&ndash;particularly as it concerns parking&ndash;resumes on 1 October 2025.  Please read the [September Newsletter](https://drive.google.com/file/d/1_BPEEH8AAY6GXagRj1WZ5ZmLP6PUNcJA/view?usp=drive_link) for details.
+---
 
 ## Contact Information
 
@@ -26,7 +24,7 @@ Knightdale, NC 27545
 
 ## HOA dues
 
-The annual assessment for 2025 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.
+The annual assessment for 2026 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.
 
 ## Violations
 
@@ -44,11 +42,11 @@ The HOA is a NC not-for-profit entity.  Board members serve a term of 2 years.
 
 | Board Member | Postion | Last Election |
 |-|-|-|
-| Rob Jones | | November 2025 |
-| Sal LaRocca | | November 2025 |
+| Rob Jones | Secretary | November 2025 |
+| Sal LaRocca | Treasurer | November 2025 |
 | Perri Davenport | | November 2025 |
-| Justin Murphy | | November 2025 |
-| Clyde Thompson | | November 2025 |
+| Justin Murphy | Vice President | November 2025 |
+| Clyde Thompson | President | November 2025 |
 
 All board seats will be open in November 2027.
 
